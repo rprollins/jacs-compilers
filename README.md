@@ -1,6 +1,6 @@
 # JACS: Working with Compilers and Makefiles
 
-JACS is a series of introductory computing sessions aimed at new postgraduate students at the Jodrell Bank Centre for Astrophysics. For more information visit [moniquehenson.bitbucket.org/jacs](http://moniquehenson.bitbucket.org/jacs/).
+JACS is a series of introductory computing sessions aimed at new postgraduate students at the Jodrell Bank Centre for Astrophysics. For more information visit [jbca-jacs.bitbucket.io](https://jbca-jacs.bitbucket.io/).
 
 This session will cover the basic use of compilers when working with code written in C, C++ and Fortran. Starting from simple single-file examples we will discuss compiling and linking as a two-stage process, working with header files, libraries and modules and automating the build process for larger projects using GNU Make.
 
